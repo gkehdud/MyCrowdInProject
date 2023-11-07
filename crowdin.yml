@@ -3,6 +3,4 @@ api_token: eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJ3UUVxdmhVM3ZMT2EyWGlj
 base_path: sportsyou@MacBook-Pro MyCrowdInProject
 base_url: 'https://api.crowdin.com'
 preserve_hierarchy: 1
-files:
-  - source: ''
-    translation: ''
+files: []
