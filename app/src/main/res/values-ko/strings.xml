@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_Hello">안녕하세요</string>
+    <string name="app_bye">바이</string>
 </resources>
